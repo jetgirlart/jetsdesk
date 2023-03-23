@@ -5,7 +5,7 @@ menu = "main"
 
 # Blogroll
 
-If we don't get no tolls, then we don't eat no rolls.
+Every blog worth its salt has a blogroll. 
 
 * https://github.com/yuin/goldmark
 * https://github.com/alecthomas/chroma
