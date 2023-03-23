@@ -3,7 +3,7 @@
 baseURL = "https://example.com"
 
 # The name of this wonderful theme ;-).
-theme = 'hugo-bearblog'
+theme = 'hugo-bearblog2'
 
 # Basic metadata configuration for your blog.
 title = "Jet's Desk【ツ】"
@@ -23,6 +23,7 @@ ignoreErrors = ["error-disable-taxonomy"]
 
 disqusShortname = 'jetgirl'
 
+disqus = 'true'
 
 googleAnalytics = 'G-F4KS96710P'
 
