@@ -1,22 +1,15 @@
-# A match made in heaven
+### Welcome to the blog
 
-There is a website obesity crisis. Bloated websites full of scripts, ads, and trackers are slowing your readers down every time they try to read your well-crafted content.
+*Let me just move some papers out of the way...*
 
-Hugo Bear Blog is all you need to build a fantastic and optimized site or blog. It works perfectly on **any** viewing device. All you need to focus on is writing good content.
+That's better.
 
-[Go to the original bear blog](https://bearblog.dev/).
+So, after the last few years of using Substack as a main blog I've dialed things back - all the way back to just the HTML. 
 
----
+- Giant images - gone! 
+- Annoying CTA popups - gone! 
+- Shady javascript - gone! 
+- Substacks walled garden - gone! 
+- Spamming your inbox - gone!
 
-What happens when you combine the worlds' fastest, most lightweight static site generator with a design theme built to provide you with free, no-nonsense, super-fast blogging capabilities?
-
-**Use this theme, and find out!**
-
-Made with 💟 by [Jan Raasch](https://www.janraasch.com).
-
----
-
-Simply publish content online, grow an audience, and keep your pages tiny, fast, and **optimized for search engines**.
-
-Each page is ~5kb, and you can **host your blog yourself**.
-
+A blog is not a newsletter. A blog is not for marketing. A blog is just a causal public notebook of thoughts and ideas, and that's the goal with this one. 
