@@ -4,7 +4,7 @@ date: 2023-03-21T23:59:51-05:00
 draft: false
 ---
 
-Yeah so if after two years your email list is the same size it's a safe bet to move on. Every single marketing tactic says you need to build an email list and maintain a newsletter to keep your readers engaged and network with other authors.
+Yeah so if after a year your email list is the same size it's a safe bet to move on. Every single marketing tactic says you need to build an email list and maintain a newsletter to keep your readers engaged and network with other authors.
 
 The issue with that is your readers aren't just reading you. They are subscribed to thirty other newsletters and even with Substack's app it can be hard to keep up. 
 
