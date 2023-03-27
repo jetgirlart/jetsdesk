@@ -6,7 +6,7 @@ baseURL = "https://blog.jetgirl.art/jetsdesk/"
 theme = 'hugo-bearblog2'
 
 # Basic metadata configuration for your blog.
-title = "Jet's Desk【ツ】"
+title = "Jet's Desk"
 author = "JetGirl"
 copyright = "Copyright © 2023, JetGirl."
 languageCode = "en-US"
