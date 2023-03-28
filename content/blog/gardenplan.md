@@ -10,7 +10,6 @@ date = "2023-03-28T12:20:01-05:00"
 tags = []
 +++
 
-# Garden Plans
 
 So our new house has a massive back yard which has more than enough room to grow a garden. The previous owners had attempted such in the back corner by tilling up a 12 x 12 area of dirt and putting down black plastic to grow something.
 
