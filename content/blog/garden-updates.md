@@ -1,7 +1,8 @@
 +++
 title = "Garden Updates"
-date = "2023-04-27T01:01:59.447Z"
+date = "2023-04-24T01:01:59.447Z"
 tags = [ ]
+preview = "/plants.jpeg"
 +++
 
 Hey, I've been busy around here. Getting the garden ready is taking longer than expected due to rain and time logistics. (I have about a two hour window during the day when the baby sleeps to do outside stuff.)
