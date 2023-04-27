@@ -8,11 +8,11 @@ Hey, I've been busy around here. Getting the garden ready is taking longer than 
 
 I also wanted to see if the photos I uploaded would work. Here is the first one which is the raised beds I assembled. 
 
-![Garden](/static/garden2.jpeg)
+![Garden](/garden2.jpeg)
 
 They are the 3ft tall and 17 inch tall raised beds by [Vego Garden](https://vegogarden.com/). I don't recommend the 3ft tall one without help during assembly, the metal will bend and tip while you try to assemble it under it's own weight and you'll cut your fingers up real good. The 17 inch beds are perfect to put together on your own. We set these up in the 2.5 x 9ft layout.
 
-![Plants](/static/plants.jpeg)
+![Plants](/plants.jpeg)
 
 Here are some of the plants I've got started, these are my purple hull peas that have outgrown their starter pods. They need to be moved into the beds this weekend. 
 
