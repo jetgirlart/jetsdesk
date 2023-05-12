@@ -1,4 +1,14 @@
 <style>
+   @font-face {
+      font-family: 'Cheese';
+      src: url('Cheese.woff2') format('woff2'),
+           url('Cheese.woff') format('woff');
+      font-weight:  500;
+      font-style:   normal;
+      font-stretch: normal;
+      font-display: swap;
+    }
+  
   body {
     font-family: Verdana, sans-serif;
     margin: auto;
@@ -22,6 +32,7 @@
   strong,
   b {
     color: #222;
+    font-family: 'Cheese';
   }
 
   a {
@@ -29,10 +40,27 @@
     /*color: #ff5e6c;*/
   }
 
+main h3{
+  font-size: 170%;
+}
+
+main h1{
+  font-size: 400%;
+}
+
+content h1 {
+  font-size: 340%;
+}
+
+content h2 {
+  font-size: 200%;
+}
   
   .title {
     text-decoration: none;
+    font-family: 'Cheese';
     border: 0;
+    font-size: 200%;
   }
 
   .title span {

@@ -2,10 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://blog.jetgirl.art/jetsdesk/</loc>
+    <lastmod>2023-04-27T22:24:16-05:00</lastmod>
+    <priority>0</priority>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>https://blog.jetgirl.art/jetsdesk/blog/</loc>
+    <lastmod>2023-04-27T22:24:16-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://blog.jetgirl.art/jetsdesk/tellinstories/</loc>
+    <lastmod>2023-04-27T22:24:16-05:00</lastmod>
+  </url><url>
+    <loc>https://blog.jetgirl.art/jetsdesk/new-nugget/</loc>
+    <lastmod>2023-04-26T20:17:03-05:00</lastmod>
+  </url><url>
+    <loc>https://blog.jetgirl.art/jetsdesk/garden-updates/</loc>
+    <lastmod>2023-04-24T01:01:59+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.jetgirl.art/jetsdesk/garden-plans/</loc>
+    <lastmod>2023-03-28T12:20:01-05:00</lastmod>
+  </url><url>
+    <loc>https://blog.jetgirl.art/jetsdesk/no-plot-just-vibes/</loc>
+    <lastmod>2023-03-27T14:27:44-05:00</lastmod>
+  </url><url>
+    <loc>https://blog.jetgirl.art/jetsdesk/the-museum/</loc>
+    <lastmod>2023-03-26T19:03:26-05:00</lastmod>
+  </url><url>
+    <loc>https://blog.jetgirl.art/jetsdesk/seinfelds-stale-cereal/</loc>
+    <lastmod>2023-03-23T23:48:32-05:00</lastmod>
+  </url><url>
+    <loc>https://blog.jetgirl.art/jetsdesk/blogroll/</loc>
+    <lastmod>2023-03-21T23:59:51-05:00</lastmod>
+  </url><url>
+    <loc>https://blog.jetgirl.art/jetsdesk/contact/</loc>
+    <lastmod>2023-03-21T23:59:51-05:00</lastmod>
+  </url><url>
+    <loc>https://blog.jetgirl.art/jetsdesk/initial-commit/</loc>
+    <lastmod>2023-03-21T23:59:51-05:00</lastmod>
   </url>
 </urlset>
