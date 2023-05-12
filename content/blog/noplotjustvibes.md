@@ -1,13 +1,8 @@
 +++
 title = "No Plot Just Vibes"
 date = "2023-03-27T14:27:44-05:00"
-draft = "false"
-#
-# description is optional
-#
-# description = "An optional description for SEO. If not provided, an automatically created summary will be used."
-
-tags = []
+draft = false
+tags = [ ]
 +++
 
 I like stories where "nothing happens". Where I'm not "hooked" in the first sentence with little plot treats like a puppy. I don't need the villain to be redeemable or the hero to be relatable. *That last bit will become contradictory in a sec just wait you can point at it later and call me an idiot that's fine.* 
