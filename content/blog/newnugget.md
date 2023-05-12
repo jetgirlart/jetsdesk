@@ -6,6 +6,7 @@ preview = "/phonejack.jpeg"
 +++
 
 I got a new music nugget last week. For those who don't know I like to listen to music separate from my phone. This is due to all the spam calls and notifications I get on my main device that make listening to music or podcasts difficult with all the constant interrupts. 
+
 ![iphone](/phonejack.jpeg)
 
 During the pandemic I picked up a couple of [broken Zunes](https://jetgirl.writeas.com/nows-a-good-time-to-go-back-to-mp3s) and [fixed them up](https://jetgirl.art/so-you-want-to-fix-up-a-zune/) to listen to offline music.
