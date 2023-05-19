@@ -9,7 +9,7 @@ preview = "/vegocoverup.jpeg"
 
 We managed to get one of the raised beds ready to plant. It has been raining constantly for a few weeks so it's taken a while to get out there and get things going.
 
-![image][/vegomulch.jpg]
+![image](/vegomulch.jpg)
 
 Waiting on the soil we filled it with to settle took a bit, but the rain helped. We topped them off with a manure/topsoil mix that seems to be holding moisture well. You can see in the back tall bed there is a little grey container with a green lid, thats our mini compost/worm bins. They've got a few weeks worth of kitchen scraps in there with 50 or so red wigglers each. (There are two of these, the other short bin has the second one.)
 
