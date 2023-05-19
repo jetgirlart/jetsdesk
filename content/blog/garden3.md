@@ -9,7 +9,7 @@ preview = "/vegocoverup.jpeg"
 
 We managed to get one of the raised beds ready to plant. It has been raining constantly for a few weeks so it's taken a while to get out there and get things going.
 
-![image](/vegomulch.jpeg)
+![image][/vegomulch.jpg]
 
 Waiting on the soil we filled it with to settle took a bit, but the rain helped. We topped them off with a manure/topsoil mix that seems to be holding moisture well. You can see in the back tall bed there is a little grey container with a green lid, thats our mini compost/worm bins. They've got a few weeks worth of kitchen scraps in there with 50 or so red wigglers each. (There are two of these, the other short bin has the second one.)
 
@@ -25,3 +25,4 @@ Our yard has tons of birds and squirrels and such that could easily get into the
 Here you can see the tomatoes and peas I've managed to plant in the center bed. I've got a room for a few more peppers in here but the seedlings aren't quite ready for the move and we need more topsoil for it. The large bed is awaiting more dirt for the potatoes, onions, and turnips. 
 
 More updates later!
+
