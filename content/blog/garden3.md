@@ -20,7 +20,7 @@ Buying topsoil with cow manure in it makes the yard smell a little like the zoo 
 
 Our yard has tons of birds and squirrels and such that could easily get into the raised beds and rip up the plants or start eating my veggies. The Vego company makes a mesh cover for their beds and this one has an irrigation sprayer on it as well. Given how "full sun" is great for these plants, that doesn't exactly mean "full Texas sun" because every tomato plant I've attempted in the past has burned to a crisp. 
 
-![image](/static/tomatoes.jpeg)
+![image](/tomatoes.jpeg)
 
 Here you can see the tomatoes and peas I've managed to plant in the center bed. I've got a room for a few more peppers in here but the seedlings aren't quite ready for the move and we need more topsoil for it. The large bed is awaiting more dirt for the potatoes, onions, and turnips. 
 
