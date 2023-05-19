@@ -7,7 +7,7 @@ preview = "/vegocoverup.jpeg"
 
 ![image](/vegofill.jpeg)
 
-We managed to get one of the raised beds ready to plant. It has been raining constantly for a few weeks so it's taken a while to get out there and get things going.
+We managed to get one of the raised beds ready to plant. It has been raining constantly for a few weeks so it's taken a while to get out there and get things going. 
 
 ![image](/vegomulch.jpg)
 
