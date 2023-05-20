@@ -29,9 +29,9 @@ disqus = 'true'
 
 [params]
   # The "description" of your website. This is used in the meta data of your generated html.
+  googleAnalytics = 'G-F4KS96710P'
 
   # The path to your "favicon". This should be a square (at least 32px x 32px) png-file.
-  # Hint: It's good practise to also put a "favicon.ico"-file into your "static"-folder.
   favicon = "images/favicon.png"
   description = "Melinda Wyers: Writer, Artist, Audio Enthusiast."
   
@@ -43,7 +43,6 @@ disqus = 'true'
   # images = ["images/jetscard.png"]
    twitter_cards = true # Enable Twitter Cards if true
 
-googleAnalytics = 'G-F4KS96710P'
 
 [social]
   twitter = 'jetgirlart'
