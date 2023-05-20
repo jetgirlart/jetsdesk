@@ -3,7 +3,10 @@ title = "Tamagotchi"
 date = "2023-05-20T11:25:17-05:00"
 tags = [ ]
 draft = false
+preview = "/tamagotchi.jpg"
 +++
+
+![tamagotchi](/tamagotchi.jpg)
 
 One summer in 8th grade we went to the mall, as most people did in the late 90's. I had seen commercials and ads for the little toys on TV and knew I wanted one. Back then the mall had a candy & toy store that sold all kind of stuff. This place sold candy and whatever was cool at time time. Pogs? You got it. Magic and Pokemon cards? Yep. Beanie Babies? In cases behind the counter. 
 
